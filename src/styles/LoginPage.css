@@ -1,0 +1,16 @@
+.button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .black-button {
+    background-color: black;
+    color: white;
+  }
+  
+  .gray-button {
+    background-color: darkgray;
+    color: white;
+  }
+  
